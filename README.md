@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in Product/UX Design as well as Front-end Development
-- 🌱 I’m currently brushing up on HTML, CSS, JavaScript
 - 📫 How to reach me @matthew-r-crawford on LinkedIn
 
 <!---
